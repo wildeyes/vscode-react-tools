@@ -1,2 +1,3 @@
 # vscode-react-tools
-Extend VS Code with React Super Powers!
+
+Add "Find prop usage defintion" menu item that shows you what values are being passed into your components.
